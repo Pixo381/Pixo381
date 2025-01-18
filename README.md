@@ -63,5 +63,4 @@
     <div class="container">
         <h2>خدماتنا:</h2>
         <div class="service">
-            <h3>شحن 100 جوهرة</h3>
-            <p>الس
+شحن جواهر 
