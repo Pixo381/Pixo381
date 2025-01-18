@@ -63,4 +63,24 @@
     <div class="container">
         <h2>خدماتنا:</h2>
         <div class="service">
-شحن جواهر 
+            <h3>شحن 100 جوهرة</h3>
+            <p>السعر: 5$</p>
+            <a href="#" class="btn">طلب الآن</a>
+        </div>
+        <div class="service">
+            <h3>شحن 500 جوهرة</h3>
+            <p>السعر: 20$</p>
+            <a href="#" class="btn">طلب الآن</a>
+        </div>
+        <div class="service">
+            <h3>شحن 1000 جوهرة</h3>
+            <p>السعر: 35$</p>
+            <a href="#" class="btn">طلب الآن</a>
+        </div>
+    </div>
+    <footer>
+        <p>© 2025 Crystal Zone - جميع الحقوق محفوظة</p>
+        <p>للتواصل: <a href="mailto:info@crystalzone.com" style="color: #ffc107;">info@crystalzone.com</a></p>
+    </footer>
+</body>
+</html>
